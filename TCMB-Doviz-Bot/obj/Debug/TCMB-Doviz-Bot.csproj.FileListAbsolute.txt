@@ -1,0 +1,7 @@
+C:\Users\ATA\source\repos\TCMB-Doviz-Bot\TCMB-Doviz-Bot\bin\Debug\TCMB-Doviz-Bot.exe.config
+C:\Users\ATA\source\repos\TCMB-Doviz-Bot\TCMB-Doviz-Bot\bin\Debug\TCMB-Doviz-Bot.exe
+C:\Users\ATA\source\repos\TCMB-Doviz-Bot\TCMB-Doviz-Bot\bin\Debug\TCMB-Doviz-Bot.pdb
+C:\Users\ATA\source\repos\TCMB-Doviz-Bot\TCMB-Doviz-Bot\obj\Debug\TCMB-Doviz-Bot.csprojAssemblyReference.cache
+C:\Users\ATA\source\repos\TCMB-Doviz-Bot\TCMB-Doviz-Bot\obj\Debug\TCMB-Doviz-Bot.csproj.CoreCompileInputs.cache
+C:\Users\ATA\source\repos\TCMB-Doviz-Bot\TCMB-Doviz-Bot\obj\Debug\TCMB-Doviz-Bot.exe
+C:\Users\ATA\source\repos\TCMB-Doviz-Bot\TCMB-Doviz-Bot\obj\Debug\TCMB-Doviz-Bot.pdb
